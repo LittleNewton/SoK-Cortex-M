@@ -63,3 +63,10 @@ dkms.conf
 **Debug
 CM3_Blinky/Out/*
 Blinky/Out/*
+
+# Binary firmware
+firmware_analysis/firmware_DB/SoK-Cortex-M-firmware-disassembly.zip
+firmware_analysis/firmware_DB/SoK-Cortex-M-firmware.zip
+firmware_analysis/firmware_DB/firmware
+firmware_analysis/firmware_DB/firmware-disassembly
+*.log
